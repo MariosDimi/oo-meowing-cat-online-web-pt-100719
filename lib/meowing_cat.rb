@@ -2,4 +2,8 @@ class Cat
   attr_accessor :cat 
 end
 
-cloe=ca
+harley=cat.new 
+harley.name
+puts harley.name
+harley.meow
+puts harley.meow
