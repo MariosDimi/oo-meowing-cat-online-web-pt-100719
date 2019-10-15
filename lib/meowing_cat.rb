@@ -6,4 +6,3 @@ harley=cat.new
 harley.name
 puts harley.name
 harley.meow
-puts harley.meow
